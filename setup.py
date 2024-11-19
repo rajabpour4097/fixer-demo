@@ -9,5 +9,4 @@ setup(name='fixer-demo',
       author_email='rajabpour4097@gmail.com',
       license='MIT',
       packages=['fixer'],
-      install_requires=['requests'],
       zip_safe=False)
